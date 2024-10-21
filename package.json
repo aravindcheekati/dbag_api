@@ -1,0 +1,17 @@
+{
+  "name": "dbag_api",
+  "version": "1.0.0",
+  "description": "dbag is an ecommerce website",
+  "main": "index.mjs",
+  "scripts": {
+    "dev": "nodemon index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
